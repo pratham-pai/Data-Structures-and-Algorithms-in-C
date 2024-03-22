@@ -1,4 +1,4 @@
-# Data Structures in C
+# Data Structures and Algorithms in C
 
 Welcome to the Data Structures in C repository! This repository contains a comprehensive collection of fundamental data structures and algorithms implemented in C. Whether you're a beginner learning the basics or an experienced programmer honing your skills, you'll find a wealth of resources here to explore.
 
@@ -43,6 +43,20 @@ Welcome to the Data Structures in C repository! This repository contains a compr
 - `Priority_queue.c`: Implementation of priority queue.
 - `String.c`: Implementation of basic string operations.
 - `Structure.c`: Implementation of basic structure operations.
+
+## Algorithms
+
+### Searching
+- `Linear Search.c`: Implementation of linear search.
+- `Binary Search Iterative.c`: Implementation of binary search using iteration.
+- `Binary Search Recursive.c`: Implementation of binary search using recursion.
+- `Ternary Search.c`: Implementation of ternary search.
+- `Jump Search.c`: Implementation of jump search.
+
+### Sorting
+- `Bubble Sort.c`: Implementation of bubble sort.
+- `Insertion Sort.c`: Implementation of insertion sort.
+- `Selection Sort.c`: Implementation of selection sort.
 
 ## Usage
 Feel free to explore, learn, and contribute to building robust and efficient solutions for your programming challenges. Let's code better together! 💻✨
